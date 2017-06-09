@@ -5,7 +5,7 @@
     sudo apt-get install -y nodejs
   
   
-## Install game-up dependencies
+## Install dependencies
 From within the source dir:
 
     npm install   
