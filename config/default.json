@@ -1,0 +1,8 @@
+{
+  "server": {
+    "port": 3333
+  },
+  "jwt": {
+    "secret": "1g1a1m1e1u1p1"
+  }
+}
